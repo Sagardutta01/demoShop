@@ -1,0 +1,11 @@
+test\com\page\TestHomePage.class
+demoShop\utility\UtilityDemoShop.class
+demoShop\pages\Onepagecheckout.class
+demoShop\pages\BlueAndGreenSneaker.class
+demoShop\pages\LoginPageOfDemoShop.class
+test\com\base\TestBaseClass.class
+demoShop\pages\ApparelnShoesPageOfDemoShop.class
+demoShop\pages\CartOfDemoShop.class
+demoShop\base\TestBase.class
+test\com\page\TestLoginPage.class
+demoShop\pages\HomePageOfDemoShop.class

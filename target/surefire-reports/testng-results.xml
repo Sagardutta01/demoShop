@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-30T01:56:14 IST" name="Surefire suite" finished-at="2024-11-30T01:57:11 IST" duration-ms="56767">
+    <groups>
+    </groups>
+    <test started-at="2024-11-30T01:56:14 IST" name="Surefire test" finished-at="2024-11-30T01:57:11 IST" duration-ms="56767">
+      <class name="demoShop.testpage.Test_LoginPageOfDemoShop">
+        <test-method is-config="true" signature="openingBrowser()[pri:0, instance:demoShop.testpage.Test_LoginPageOfDemoShop@353d0772]" started-at="2024-11-30T01:57:00 IST" name="openingBrowser" finished-at="2024-11-30T01:57:05 IST" duration-ms="5418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method signature="verifyTitleofLoginPageOfDemoShop()[pri:0, instance:demoShop.testpage.Test_LoginPageOfDemoShop@353d0772]" started-at="2024-11-30T01:57:05 IST" name="verifyTitleofLoginPageOfDemoShop" finished-at="2024-11-30T01:57:05 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleofLoginPageOfDemoShop -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:demoShop.testpage.Test_LoginPageOfDemoShop@353d0772]" started-at="2024-11-30T01:57:05 IST" name="closingBrowser" finished-at="2024-11-30T01:57:06 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- demoShop.testpage.Test_LoginPageOfDemoShop -->
+      <class name="demoShop.testpage.Test_AppareInShoesPageOfDemoShop">
+        <test-method is-config="true" signature="startup()[pri:0, instance:demoShop.testpage.Test_AppareInShoesPageOfDemoShop@1534f01b]" started-at="2024-11-30T01:56:14 IST" name="startup" finished-at="2024-11-30T01:56:25 IST" duration-ms="10996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method signature="addShoeInCart()[pri:1, instance:demoShop.testpage.Test_AppareInShoesPageOfDemoShop@1534f01b]" started-at="2024-11-30T01:56:25 IST" name="addShoeInCart" finished-at="2024-11-30T01:56:30 IST" duration-ms="4860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addShoeInCart -->
+        <test-method is-config="true" signature="closeup()[pri:0, instance:demoShop.testpage.Test_AppareInShoesPageOfDemoShop@1534f01b]" started-at="2024-11-30T01:56:30 IST" name="closeup" finished-at="2024-11-30T01:56:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeup -->
+      </class> <!-- demoShop.testpage.Test_AppareInShoesPageOfDemoShop -->
+      <class name="demoShop.testpage.Test_Checkout">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:demoShop.testpage.Test_Checkout@19bb07ed]" started-at="2024-11-30T01:56:30 IST" name="startUp" finished-at="2024-11-30T01:56:42 IST" duration-ms="11852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="checkoutProcess()[pri:0, instance:demoShop.testpage.Test_Checkout@19bb07ed]" started-at="2024-11-30T01:56:42 IST" name="checkoutProcess" finished-at="2024-11-30T01:56:44 IST" duration-ms="1700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demoShop.testpage.Test_Checkout@19bb07ed]" started-at="2024-11-30T01:56:44 IST" name="tearDown" finished-at="2024-11-30T01:56:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoShop.testpage.Test_Checkout -->
+      <class name="test.com.Execution.TestLoginExecution">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:test.com.Execution.TestLoginExecution@2667f029]" started-at="2024-11-30T01:57:06 IST" name="startUp" finished-at="2024-11-30T01:57:11 IST" duration-ms="5088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="testloginProcess()[pri:0, instance:test.com.Execution.TestLoginExecution@2667f029]" started-at="2024-11-30T01:57:11 IST" name="testloginProcess" finished-at="2024-11-30T01:57:11 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginProcess -->
+        <test-method is-config="true" signature="closeUp()[pri:0, instance:test.com.Execution.TestLoginExecution@2667f029]" started-at="2024-11-30T01:57:11 IST" name="closeUp" finished-at="2024-11-30T01:57:11 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- test.com.Execution.TestLoginExecution -->
+      <class name="demoShop.testpage.Test_HomePageOfDemoShop">
+        <test-method is-config="true" signature="openingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:44 IST" name="openingBrowser" finished-at="2024-11-30T01:56:49 IST" duration-ms="5379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method signature="nextPage()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:49 IST" name="nextPage" finished-at="2024-11-30T01:56:50 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextPage -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:50 IST" name="closingBrowser" finished-at="2024-11-30T01:56:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="openingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:50 IST" name="openingBrowser" finished-at="2024-11-30T01:56:55 IST" duration-ms="5179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method signature="verifyUserProfileOfDemoShop()[pri:1, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:55 IST" name="verifyUserProfileOfDemoShop" finished-at="2024-11-30T01:56:55 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserProfileOfDemoShop -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:55 IST" name="closingBrowser" finished-at="2024-11-30T01:56:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="openingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:56:55 IST" name="openingBrowser" finished-at="2024-11-30T01:57:00 IST" duration-ms="5028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method signature="verifyTitileOfHomepageOfDemoShop()[pri:2, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:57:00 IST" name="verifyTitileOfHomepageOfDemoShop" finished-at="2024-11-30T01:57:00 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitileOfHomepageOfDemoShop -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:demoShop.testpage.Test_HomePageOfDemoShop@10e41621]" started-at="2024-11-30T01:57:00 IST" name="closingBrowser" finished-at="2024-11-30T01:57:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- demoShop.testpage.Test_HomePageOfDemoShop -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
