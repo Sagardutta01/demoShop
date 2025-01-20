@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demoShop.testpage.Test_Checkout">
+      <class name="ComTestPackage.ExcelLink">
         <methods>
-          <include name="tearDown"/>
-          <include name="startUp"/>
-          <include name="checkoutProcess"/>
+          <include name="executeMeMethod" invocation-numbers="0 1"/>
         </methods>
-      </class> <!-- demoShop.testpage.Test_Checkout -->
+      </class> <!-- ComTestPackage.ExcelLink -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
